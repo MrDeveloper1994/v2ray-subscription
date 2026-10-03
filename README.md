@@ -24,6 +24,8 @@ YOUR_REPOSITORY
 
 with your GitHub username and repository name.
 
+for example https://raw.githubusercontent.com/MrDeveloper1994/v2ray-subscription/main/subscriptions/all-base64.txt
+
 ## Files
 
 ### all.txt
