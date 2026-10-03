@@ -1,8 +1,6 @@
 {
   "source_files": 10,
-  "failed_files": [
-    "v2ray_configs_no5.txt"
-  ],
-  "total_configs": 90,
-  "unique_configs": 86
+  "failed_files": [],
+  "total_configs": 100,
+  "unique_configs": 99
 }
